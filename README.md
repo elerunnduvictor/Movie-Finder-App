@@ -7,7 +7,7 @@ My software is a movie finder app. This app allows a user to find useful informa
 
 Beacuse i am a movie fan and also a movie critic, i decided to build this to help other movie lovers like me to find information on any movie of their choice.
 
-Software Demo Video: https://youtu.be/vJxoD_ZXfpc?feature=shared
+- [Software Demo Video](https://www.youtube.com/watch?v=HCnD6_7Yf64)
 
 # Development Environment
 
